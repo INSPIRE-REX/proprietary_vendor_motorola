@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/condor/proprietary/lib/libchromatix_ar0543_snapshot.so:system/lib/libchromatix_ar0543_snapshot.so \
     vendor/motorola/condor/proprietary/lib/libmmcamera_ar0543.so:system/lib/libmmcamera_ar0543.so \
     vendor/motorola/condor/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
-	vendor/motorola/condor/proprietary/lib/libfmjni.so:system/lib/libfmjni.so \
+    vendor/motorola/condor/proprietary/lib/libfmjni.so:system/lib/libfmjni.so \
     vendor/motorola/condor/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/motorola/condor/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/motorola/condor/proprietary/vendor/lib/libmmcamera2_iface_modules.so:system/vendor/lib/libmmcamera2_iface_modules.so \
