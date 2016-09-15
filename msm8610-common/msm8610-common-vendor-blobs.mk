@@ -47,6 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8610-common/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
     vendor/motorola/msm8610-common/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/motorola/msm8610-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
+    vendor/motorola/msm8610-common/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/motorola/msm8610-common/proprietary/lib/libGLESv3.so:system/lib/libGLESv3.so \
     vendor/motorola/msm8610-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/motorola/msm8610-common/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
