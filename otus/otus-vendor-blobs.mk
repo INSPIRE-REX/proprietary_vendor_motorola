@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/otus/proprietary/lib/hw/camera.vendor.msm8610.so:system/lib/hw/camera.vendor.msm8610.so \
     vendor/motorola/otus/proprietary/lib/hw/sensorhub.msm8610.so:system/lib/hw/sensorhub.msm8610.so \
     vendor/motorola/otus/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
-	vendor/motorola/otus/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
+    vendor/motorola/otus/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/motorola/otus/proprietary/lib/libfmjni.so:system/lib/libfmjni.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_common.so:system/vendor/lib/libchromatix_s5k5e2_common.so \
     vendor/motorola/otus/proprietary/vendor/lib/libchromatix_s5k5e2_default_video.so:system/vendor/lib/libchromatix_s5k5e2_default_video.so \
